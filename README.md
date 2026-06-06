@@ -52,14 +52,6 @@ Currently working through a personalized learning path focused on backend engine
 
 ---
 
-## 📊 GitHub Stats
-
-![Gerhard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerhardLemmer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GerhardLemmer&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 💡 How I Work
 
 I use AI as a teacher, not a code generator. I use it to understand tradeoffs, challenge my designs, and go deeper on concepts — then I implement myself. The goal is for the knowledge to land in my head, not just the repo.
