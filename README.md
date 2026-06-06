@@ -1,4 +1,4 @@
-## Gerhard Lemmer — Software Developer
+# Gerhard Lemmer — Software Developer
 
 **Johannesburg, South Africa** · Building toward a career in system architecture
 
@@ -16,17 +16,31 @@ Currently working through a personalized learning path focused on backend engine
 
 ## 🛠 Stack
 
-**Backend** — C#, ASP.NET Core, Python, FastAPI, Node.js
+**Backend**
 
-**Frontend** — React, Tailwind CSS, Blazor
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**Databases** — PostgreSQL, MongoDB, MS SQL
+**Frontend**
 
-**Auth** — Keycloak, JWT, OAuth 2.0
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 
-**Tooling** — Docker, GitHub Actions, CI/CD
+**Databases**
 
-**Patterns** — Clean Architecture, CQRS, SOLID, REST
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Auth & Tooling**
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -35,6 +49,14 @@ Currently working through a personalized learning path focused on backend engine
 - Interning at **Select Africa Limited** — contributing to a production Loan Management System
 - Working through a structured backend engineering curriculum covering Docker, Kubernetes, RabbitMQ, ELK Stack, and Prometheus/Grafana
 - Targeting a developer role in **Europe** — Netherlands, Germany, or the Nordics
+
+---
+
+## 📊 GitHub Stats
+
+![Gerhard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GerhardLemmer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GerhardLemmer&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
