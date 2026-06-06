@@ -7,7 +7,12 @@ Currently working through a personalized learning path focused on backend engine
 Flowgate (on hold) — A scenario-driven workflow simulation platform that simulates real business workflows — loan approvals, payment flows, order fulfilment — with rule-based pass/fail logic. Built with FastAPI, React 19, PostgreSQL, and Keycloak. On hold while I build deeper backend fundamentals.
 
 🛠 Stack
-LayerTechnologiesBackendC#, ASP.NET Core, Python, FastAPI, Node.jsFrontendReact, Tailwind CSS, BlazorDatabasesPostgreSQL, MongoDB, MS SQLAuthKeycloak, JWT, OAuth 2.0ToolingDocker, GitHub Actions, CI/CDPatternsClean Architecture, CQRS, SOLID, REST
+Backend — C#, ASP.NET Core, Python, FastAPI, Node.js
+Frontend — React, Tailwind CSS, Blazor
+Databases — PostgreSQL, MongoDB, MS SQL
+Auth — Keycloak, JWT, OAuth 2.0
+Tooling — Docker, GitHub Actions, CI/CD
+Patterns — Clean Architecture, CQRS, SOLID, REST
 
 📍 Currently
 
@@ -18,3 +23,5 @@ Targeting a developer role in Europe — Netherlands, Germany, or the Nordics
 
 💡 How I Work
 I use AI as a teacher, not a code generator. I use it to understand tradeoffs, challenge my designs, and go deeper on concepts — then I implement myself. The goal is for the knowledge to land in my head, not just the repo.
+
+📧 glemmer94@gmail.com · LinkedIn
